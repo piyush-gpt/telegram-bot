@@ -76,10 +76,3 @@ This project is a Telegram bot that integrates several powerful features like us
 - **Send an image/file**: Send an image or PDF file to get content analysis and metadata storage.
 - **Web Search**: Use `/websearch` followed by your query to get a summary and web links.
 
-## Contributing
-
-Feel free to fork the repository, create an issue, or submit a pull request for new features or improvements.
-
-## License
-
-This project is open-source and available under the MIT License.
