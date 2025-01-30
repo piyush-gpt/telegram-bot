@@ -37,12 +37,12 @@ This project is a Telegram bot that integrates several powerful features like us
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/piyush-gpt/telegram-bot-gemini.git
+    git clone https://github.com/piyush-gpt/telegram-bot.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd telegram-bot-gemini
+    cd telegram-bot
     ```
 
 3. Install the required Python packages:
