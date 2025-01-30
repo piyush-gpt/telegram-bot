@@ -65,7 +65,7 @@ This project is a Telegram bot that integrates several powerful features like us
 
 8. Run the bot:
     ```bash
-    python bot.py
+    python telebot.py
     ```
 
 ## Usage
